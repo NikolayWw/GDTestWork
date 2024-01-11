@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae66d2d06f6d7a4d85f4613f1e598a5, type: 3}
+  m_Name: PlayerStaticData
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 1508760993321580270, guid: 4d9f4299f6bc707479a6ccc8fa78a5d5, type: 3}
+  <Health>k__BackingField: 20
+  <Speed>k__BackingField: 5
+  <AttackRadius>k__BackingField: 0.9
+  <Damage>k__BackingField: 1
+  <SuperDamage>k__BackingField: 2
+  <AttackDelay>k__BackingField: 0.7
+  <SuperAttackDelay>k__BackingField: 2
+  <DelayBetweenAttacks>k__BackingField: 0.7
+  <AttackLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 1
+  <HealForKill>k__BackingField: 5
